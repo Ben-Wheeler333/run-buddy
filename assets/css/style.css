@@ -93,3 +93,13 @@ body {
     width: 100%;
     margin-bottom: 15px;
 }
+.hero-form label {
+    margin: 0 5px;
+}
+.hero-form button {
+    color: #fce138;
+    background-color: #024e76;
+    border: 1px black;
+    padding: 10px 15px;
+    font-size: 18px;
+}
