@@ -10,13 +10,15 @@ body {
     header {
         padding: 30px;
         background-color: #39a6b2;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
     }
     header h1 a {
         font-weight: bold;
         font-size: 36px;
         color: #fce138;
         margin: 0;
-        display: inline;
     }
     header li a {
         color:#fce138;
@@ -26,7 +28,6 @@ body {
         color: #fce138;
     }
     header nav {
-        float: right;
         margin:  7px;
         
     }
